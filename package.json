@@ -1,0 +1,20 @@
+{
+  "name": "hain-plugin-prime-factorization",
+  "version": "0.0.1",
+  "author": "ser1zw",
+  "description": "Factorize a number into prime factors",
+  "main": "index.js",
+ "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ser1zw/hain-plugin-prime-factorization.git"
+  },
+  "keywords": [
+    "hain-0.5.0"
+  ],
+  "hain": {
+    "prefix": "/primefactorization",
+    "usage": "/primefactorization number(> 1)",
+    "icon": "#fa fa-calculator"
+  },
+  "license": "MIT"
+}
